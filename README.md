@@ -1,4 +1,4 @@
-# db_suco_de_frutas_avancado
+# Consultas em SQL, com MySQL.
 Olá! Neste repositório consta o que aprendi no curso da Alura avançado de SQL, com MySQL, como:
 - Cláusula WHERE e operadores lógicos.
 - Cláusula ORDER BY.
