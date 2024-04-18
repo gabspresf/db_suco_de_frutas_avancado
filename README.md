@@ -5,7 +5,7 @@ Olá! Neste repositório consta o que aprendi no curso da Alura avançado de SQL
 - Cláusula GROUP BY e funções de agregação.
 - Junção de tabelas e junção de queries (INNER JOIN, LEFT/RIGHT JOIN, UNION/UNION ALL).
 - SubQuery's.
-- Funções STRING, DATA e MAT.
+- Funções STRING, DATA e MATH.
 - Conversão de dados.
 - HAVING, DISTINCT, LIMIT, LIKE e VIEW.
 - CASE.
