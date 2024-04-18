@@ -11,3 +11,5 @@ Olá! Neste repositório consta o que aprendi no curso da Alura avançado de SQL
 - CASE.
 
 Neste repositório, também, consta dois relatórios baseados em situações reais, onde apliquei todo o conhecimento adquirido durante o curso.
+
+OBS: O Banco de Dados utilizado é de uma empresa fictícia de suco de frutas.
